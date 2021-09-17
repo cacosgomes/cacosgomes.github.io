@@ -1,0 +1,25 @@
+.jumbotron{
+	background-color: #C6E2FF;
+}
+#header table{
+	width: 100%;
+	margin-left: -250px;
+	text-align: center;
+	display: table;
+	
+	align-items: center;
+	flex-direction: row;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	margin-top: 2em;
+}
+body{
+	background-color: #BBFFFF;
+}
+
+img{
+	
+	border-radius: 50%;
+	width: 30%;
+	height: 30%;
+}
